@@ -1,3 +1,3 @@
-### MauiCode
+### Maui - UI built in C#
 
-![alt-text](MauiCode/MauiCode/Resources/Images/maui_ui_c#.jpg)
+![alt-text](../Resources/Images/maui_ui_c#.jpg)
