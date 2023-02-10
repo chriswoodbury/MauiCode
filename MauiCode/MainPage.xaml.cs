@@ -15,7 +15,6 @@ public partial class MainPage : ContentPage
 			Margin = new Thickness(15, 0, 15, 15),
 			Padding = new Thickness(30, 20, 30, 30),
 			
-			
 			Children =
 			{
 				new Label { Text = "Please log in", FontSize = 30, TextColor = Color.FromRgb(255, 255, 100), Margin = new Thickness(0, 30, 0, 0) },
@@ -35,6 +34,7 @@ public partial class MainPage : ContentPage
 		loginButton.Clicked += (sender, e) =>
 		{
 			// alert always displayed when this button clicked, regardless if a value has been entered
+			// it's a test to see if the button displays the alert
 			DisplayAlert("Error", "Username is required", "OK");
 		};
 
