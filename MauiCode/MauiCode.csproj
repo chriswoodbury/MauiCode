@@ -49,7 +49,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Resources\Images\maui_ui_c#.jpg" />
+	  <None Remove="Resources\Images\maui_ui_csharp.jpg" />
+	  <None Remove="Resources\Images\maui_ui_csharp.png" />
 	</ItemGroup>
 
 	<ItemGroup>
