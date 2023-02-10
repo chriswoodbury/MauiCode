@@ -1,6 +1,6 @@
 # .NET MAUI - *UI built in C#*
 
-This is a very simple project just to illustrate the creation of the UI in C#, as opposed to creating it using the XAML markup language.  No elements exist inside the ContentPage in MainPage.xaml.
+This is a very simple project to illustrate the creation of the UI in C#, as opposed to creating it using the XAML markup language.  No elements exist inside the ContentPage in MainPage.xaml.
 
 Check out MainPage.xaml.cs to see how it's done.  
 
