@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiCode.DetailPage"
+             Title=".NET Maui UI - XAML"
+             BackgroundColor="#512bdf">
+    <VerticalStackLayout 
+            Margin="15,0,15,15"
+			Padding="30,20,30,30" >
+
+        <Label
+            Text="Please log in"
+            TextColor="#FFFF64"
+            FontSize="30"
+            Margin="0,30,0,0"/>
+
+        <Label
+            Text="Username"
+            TextColor="#bfff00"
+            Margin="0,20,0,0"/>
+
+        <Entry 
+            TextColor="White"
+            FontSize="20" />
+
+        <Label
+            Text="Password"
+            TextColor="#bfff00"
+            Margin="0,20,0,0"/>
+
+        <Entry 
+            IsPassword="True"
+            TextColor="White"
+            FontSize="20" />
+
+        <Button
+            Text="Login"
+            BackgroundColor="#0094FF"
+            Margin="0,30,0,0"
+            ToolTipProperties.Text="click here after entering your credentials"
+            Clicked="Button_Clicked_1"/>
+
+        <Button
+            Text="UI - C#"
+            BorderColor="Indigo" 
+            BorderWidth="1"
+            BackgroundColor="White"
+            TextColor="Indigo"
+            WidthRequest="200"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            Margin="0,80,0,0"
+            Clicked="Button_Clicked"/>
+        
+    </VerticalStackLayout>
+</ContentPage>
