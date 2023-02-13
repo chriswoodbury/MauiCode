@@ -11,4 +11,4 @@ Check out DetailPage.xaml to see how it's done in XAML. [DetailPage.xaml source 
 <img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/android_maui_ui_csharp.jpg" alt="alt text" Title="Android - Maui UI in C#" Height="400" Width="200">
 
 ### Andriod UI in XAML
-<img src="" alt="alt text" Title="Android - Maui UI in XAML" Height="400" Width="200">
+<img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/android_maui_ui_xaml.jpg" alt="alt text" Title="Android - Maui UI in XAML" Height="400" Width="200">
