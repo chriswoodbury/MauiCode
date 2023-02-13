@@ -23,7 +23,7 @@ public partial class MainPage : ContentPage
 				new Entry { TextColor = Color.FromRgb(255, 255, 255), FontSize = 20, },
                 new Label { Text = "Password", TextColor = Color.FromArgb("bfff00"), Margin = new Thickness(0, 20, 0, 0) },
 				new Entry { IsPassword = true, TextColor = Color.FromRgb(255, 255, 100), FontSize = 20 }
-            }
+                         }
 		};
 
 		loginButton = new Button { Text = "Login", BackgroundColor = Color.FromRgb(0, 148, 255), Margin = new Thickness(0, 30, 0, 0) };
