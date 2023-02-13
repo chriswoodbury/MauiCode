@@ -17,4 +17,4 @@ Check out DetailPage.xaml to see how it's done in XAML. [DetailPage.xaml source 
 <img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/iOS_maui_ui_csharp.png" alt="alt text" Title="iOS - Maui UI in C#" Height="400" Width="200">
 
 ### iOS UI in XAML
-<img src="" alt="alt text" Title="iOS - Maui UI in XAML" Height="400" Width="200">
+<img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/iOS_maui_ui_xaml.png" alt="alt text" Title="iOS - Maui UI in XAML" Height="400" Width="200">
