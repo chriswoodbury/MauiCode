@@ -4,7 +4,7 @@ This is a very simple project to illustrate the creation of a UI, using either C
 
 Check out MainPage.xaml.cs to see how it's done in C#. [MainPage.xaml.cs source code](https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/MainPage.xaml.cs)
 
-Check out MainPage.xaml.cs to see how it's done in XAML. [DetailPage.xaml source code](https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/DetailPage.xaml)
+Check out DetailPage.xaml to see how it's done in XAML. [DetailPage.xaml source code](https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/DetailPage.xaml)
 
 
 ### Android UI in C#
