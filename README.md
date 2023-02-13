@@ -1,6 +1,6 @@
 # .NET Maui UI (C# or XAML)
 
-This is a very simple project to illustrate the creation of the UI in C#, as opposed to creating the UI using the XAML markup language.  No elements exist inside the ContentPage in MainPage.xaml.
+This is a very simple project to illustrate the creation of a UI, using either C# or XAML. The UI created in C# is an *EXACT* match to the UI that is created using XAML. See the screenshots below, and view the code for scenario.
 
 Check out MainPage.xaml.cs to see how it's done.  [MainPage.xaml.cs source code](https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/MainPage.xaml.cs)
 
