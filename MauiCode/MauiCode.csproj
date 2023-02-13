@@ -49,8 +49,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Resources\Images\maui_ui_csharp.jpg" />
-	  <None Remove="Resources\Images\maui_ui_csharp.png" />
+	  <None Remove="Resources\Images\maui_android_ui_csharp.jpg" />
+	  <None Remove="Resources\Images\maui_android_ui_xaml.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>
