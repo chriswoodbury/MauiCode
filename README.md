@@ -8,7 +8,7 @@ Check out DetailPage.xaml to see how it's done in XAML. [DetailPage.xaml source 
 
 
 ### Android UI in C#
-<img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/maui_android_ui_csharp.jpg" alt="alt text" Title="Andriod - Maui UI in C#" Height="400" Width="200">
+<img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/maui_android_ui_csharp.jpg" alt="alt text" Title="Android - Maui UI in C#" Height="400" Width="200">
 
 ### Andriod UI in XAML
-<img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/maui_android_ui_xaml.jpg" alt="alt text" Title="Andriod - Maui UI in XAML" Height="400" Width="200">
+<img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/maui_android_ui_xaml.jpg" alt="alt text" Title="Android - Maui UI in XAML" Height="400" Width="200">
