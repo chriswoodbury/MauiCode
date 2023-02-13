@@ -8,4 +8,4 @@ Check out MainPage.xaml.cs to see how it's done.  [MainPage.xaml.cs source code]
 <img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/maui_android_ui_csharp.jpg" alt="alt text" Title="Andriod - Maui UI in C#" Height="400" Width="200">
 
 ### Andriod UI in XAML
-<img src="" alt="alt text" Title="Andriod - Maui UI in XAML" Height="400" Width="200">
+<img src="https://github.com/chriswoodbury/MauiCode/blob/master/MauiCode/Resources/Images/maui_android_ui_xaml.jpg" alt="alt text" Title="Andriod - Maui UI in XAML" Height="400" Width="200">
